@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Severin, a member of the Open Source Program Office at [Cisco](https://www.cisco.com/), a co-maintainer of the OpenTelemetry SIG Communications ([Website and Docs](github.com/open-telemetry/opentelemetry.io)) and the author of [DemoMonkey](https://github.com/svrnm/demomonkey), a browser extension that helps to tailor custom demos.
+I am Severin, Head of Community & Developer Relations at [Causely](https://www.causely.ai/), a co-maintainer of the OpenTelemetry SIG Communications ([Website and Docs](github.com/open-telemetry/opentelemetry.io)) and the author of [DemoMonkey](https://github.com/svrnm/demomonkey), a browser extension that helps to tailor custom demos.
 
 If you are interested in helping out with the OpenTelemetry SIG Communications, take a look at the issues labeled [`help wanted`](https://github.com/open-telemetry/opentelemetry.io/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+).
 
